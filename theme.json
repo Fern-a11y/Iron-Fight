@@ -393,8 +393,8 @@
   },
 
   "background": {
-    "blur": 0.15,
-    "url": "YOUR_KICKBOXING_BACKGROUND_URL"
+    "blur": 0,
+    "url": "https://i.imgur.com/5gtVEwg.webp"
   },
 
   "plus": {
