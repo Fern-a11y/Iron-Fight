@@ -1,7 +1,7 @@
 {
-  "name": "Iron Fight v2",
+  "name": "Iron Fight v3",
   "description": "Dark kickboxing arena. Black steel, fight energy, and red-orange accents.",
-  "version": "2",
+  "version": "3",
   "authors": [
     {
       "name": "rik.msi",
@@ -394,7 +394,7 @@
 
   "background": {
     "blur": 0.29,
-    "url": "https://i.ibb.co/xSDkK4tC/CE7-FE2-EC-6-E58-41-C7-B520-053-E6006-E46-D.png"
+    "url": "https://i.ibb.co/4gNfjLpG/9719-F9-D3-5-BCC-4-A62-B881-9-C5-D869-CC57-F.png"
   },
 
   "plus": {
